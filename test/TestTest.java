@@ -2,10 +2,12 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class TestTest {
+public class TestTest 
+{
 
 	@Test
-	public void test() {
+	public void test() 
+	{
 		fail("Not yet implemented");
 	}
 
