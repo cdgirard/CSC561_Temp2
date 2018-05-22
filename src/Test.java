@@ -5,6 +5,6 @@ public class Test
     
     public Test()
     {
-    	
+    	value = 5;
     }
 }
