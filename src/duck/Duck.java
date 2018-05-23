@@ -1,3 +1,6 @@
+package duck;
+
+import behaviors.FlyBehavior;
 
 public class Duck 
 {

@@ -1,3 +1,6 @@
+package duck;
+
+import behaviors.Fly;
 
 public class MallardDuck extends Duck 
 {

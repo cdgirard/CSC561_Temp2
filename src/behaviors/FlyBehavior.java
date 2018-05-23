@@ -1,3 +1,4 @@
+package behaviors;
 
 public interface FlyBehavior 
 {

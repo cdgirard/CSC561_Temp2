@@ -1,3 +1,4 @@
+package behaviors;
 
 public class Fly implements FlyBehavior 
 {

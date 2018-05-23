@@ -1,6 +1,10 @@
+package duck;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import behaviors.FlyBehavior;
+import duck.Duck;
 
 public class TestDuck 
 {
