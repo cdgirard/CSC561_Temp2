@@ -9,7 +9,7 @@ public class TestFly
 	public void testFly() 
 	{
 		FlyBehavior fly = new Fly();
-		assertEquals("Fly",fly.fly());
+		assertEquals("Can Fly",fly.fly());
 	}
 
 }

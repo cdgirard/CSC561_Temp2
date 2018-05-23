@@ -11,7 +11,7 @@ public class Fly implements FlyBehavior
 	           // or interface.
 	public String fly() 
 	{
-		return "Fly";
+		return "Can Fly";
 	}
 
 }
