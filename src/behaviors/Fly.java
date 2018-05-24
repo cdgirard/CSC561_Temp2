@@ -1,5 +1,15 @@
 package behaviors;
+// Single Line Comment -- Comments left for the programmer.
+/*
+ * Standard Multi-Line Comment
+ */
 
+// TODO: Something that I need to come back to.
+
+/**
+ * Javadoc Multi-Line Comment
+ * This is the comment style you should use most of the time.
+ */
 public class Fly implements FlyBehavior 
 {
 

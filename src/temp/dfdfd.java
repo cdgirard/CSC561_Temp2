@@ -9,5 +9,15 @@ public class dfdfd
 		dfdfddd a = new dfdfddd();
 		a.v = 3;
 	}
+	
+	/**
+	 * 
+	 * @param a
+	 * @return
+	 */
+	public int method(double a)
+	{
+		return -1;
+	}
 
 }
