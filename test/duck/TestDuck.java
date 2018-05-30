@@ -3,6 +3,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import behaviors.Fly;
 import behaviors.FlyBehavior;
 import duck.Duck;
 
@@ -51,6 +52,7 @@ class MockFly implements FlyBehavior
 	@Override
 	public String fly() 
 	{
+
 		return "Fly";
 	}
 	
