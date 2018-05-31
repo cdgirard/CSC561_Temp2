@@ -11,7 +11,7 @@ public class MallardDuck extends Duck
 		if (flyBehavior == null)
 		{
 			// Stops it from making an instance of the class
-			throw new FailedToGetBehaviorException();
+			//throw new FailedToGetBehaviorException();
 		}
 	}
 
